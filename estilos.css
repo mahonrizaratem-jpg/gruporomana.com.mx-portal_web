@@ -1,4 +1,4 @@
-*,
+yo*,
 ::after,
 ::before{
     margin: 0;
@@ -210,9 +210,9 @@ LAVADO |PULIDO |ABRILLANTADO
 .INICIO__ICON{
 
     /*max-width: 100vw;*/
-    height: 500px;
+    height: 600px;
     background-image: url('-GR- ENCABEZADO__GR.png');
-    background-size: 380px 260px;
+    background-size: autopx autopx;
     background-repeat: no-repeat;
     background-position: center top;
     
