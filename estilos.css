@@ -212,7 +212,7 @@ LAVADO |PULIDO |ABRILLANTADO
     /*max-width: 100vw;*/
     height: 600px;
     background-image: url('-GR- ENCABEZADO__GR.png');
-    background-size: autopx autopx;
+    background-size: 85% autopx;
     background-repeat: no-repeat;
     background-position: center top;
     
