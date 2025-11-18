@@ -1,4 +1,4 @@
-yo*,
+*,
 ::after,
 ::before{
     margin: 0;
@@ -525,7 +525,7 @@ LAVADO |PULIDO |ABRILLANTADO
 @media (width >= 900px){  
     /** Hero **/
 
-    .nav{
+   /* .nav{
         --transform-list-menu: translate(0%);
     }
 
@@ -536,16 +536,15 @@ LAVADO |PULIDO |ABRILLANTADO
     .nav__list{
         position: static;
         grid-auto-flow: column;
-        background-color: /**#BLC-**/rgb(248, 248, 248);  /**#AZUL** rgb(0, 32, 79);**/
+        background-color: /**#BLC-**rgb(248, 248, 248);  /**#AZUL** rgb(0, 32, 79);
         place-content:unset;
         gap: 1rem;
     }
 
     .nav__link{
-        color: /**#AZUL**/ rgb(0, 32, 79) /**#BLC-**rgb(255, 255, 255);**/
+        color: /**#AZUL**rgb(0, 32, 79) /**#BLC-**rgb(255, 255, 255);*
     }
-
-    /** Footer **/
+    Footer **/
 
     .footer{
         background-color: #FFFF;
